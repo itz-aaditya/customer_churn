@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.DS_Store
+
+# Streamlit specific
+.streamlit/
+kaggle_data_temp/ # Crucial: Prevents large dataset downloads from being pushed
